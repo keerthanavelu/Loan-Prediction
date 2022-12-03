@@ -6,10 +6,10 @@ Secondly, to learn how to hypertune the parameters using grid search cross valid
 
 Developed model using Logistic Regression with Standard Scaling and PCA,Decision Tree Classifier with Standard Scaling and PCA,Decision Tree Classifier Model without Standard Scaling and without PCA,Decision Tree Classifier Model with Standard Scaling and without PCA,xgboost,Adaboost,Random Forest Classifier.
 
-##Attributes in the dataset
+## Attributes in the dataset
 Loan id, Gender, Married, Dependents, Education, Self Employed, Applicant income, Coapplicant income, Loan Amount,Credit History, Property_Area, Loan_Status
 
-##Major observation from the data
+## Major observation from the data
 Applicants who are male and married tends to have more applicant income whereas applicant who are female and married have least applicant income
 
 Applicants who are male and are graduated have more applicant income over the applicants who have not graduated.
